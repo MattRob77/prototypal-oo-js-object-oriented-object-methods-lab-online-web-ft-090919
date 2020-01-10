@@ -20,5 +20,5 @@ function BoardMember(name, homeState, training) {
   }
   
   this.sayHi = function() {
-    return `Hi, my name is ${this.name}. I am from ${this.homestate}, 
+    return `Hi, my name is ${this.name}. I am from ${this.homeState},  
   }
